@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js, three.js**
 
-- 👨‍💻 All of my projects are available at [hudashakir.evrytec.com](hudashakir.evrytec.com)
+- 👨‍💻 All of my projects are available at [hudashakir.evrytec.com](https://hudashakir.evrytec.com)
 
 - 💬 Ask me about **Laravel, C#**
 
